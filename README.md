@@ -17,7 +17,7 @@ Alternatively, [find me on telegram](https://t.me/mariodevs)! (Keep all support 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 Easiest way!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/jaarvisbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/rose2.0)
 
 Our team 
 [X_row](https://t.me/x_row)
