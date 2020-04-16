@@ -18,21 +18,22 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hey! {}, my name is {}! if you have any questions about how to use me please give me /help... 
+Hey! {}, my name is {}!I can help you out in mananging your group efficiency
+I can do what you cannot ! 
+I am more powerful & I have more features than any other bots.
+Just add me in an group & start using me ! 😉
+I am very smart that's because I am created by [this person](tg://user?id={})
+ if you have any questions about how to use me please give me /help... 
+My support [group](t.me/binzhub)🤖
+If you wanna [clone me](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/jaarvisbot)😄
+My supporters are : [Mariodevs](t.me/mariodevs),[x_row](t.me/x_row),[moviewala](t.me/moviewala)
+If you wanna donate /donate
 
-im a powerful & smart group manger maintained by  [this person](tg://user?id={}).
-
-My future updates will be put into My Support Group @jaarvisbotgroup .
-For downloading torrent join @publicleechtorrent
-I am smartest bot if all
-
-I am created by @mariodevs 
-
-Any issue report to @binzhub
 
 For more commands click /help...
 
 Thank you for using me!
+
 
 """
 
