@@ -1,6 +1,6 @@
 
 {
-  "name": "rose clone",
+  "name": "rose 2.0",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/midhunkm1294-bit/marie-2.0",
+  "repository": "hhttps://github.com/midhunkm1294-bit/jaarvisbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
