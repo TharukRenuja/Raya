@@ -16,8 +16,16 @@ announcements.
 Alternatively, [find me on telegram](https://t.me/mariodevs)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+Easiest way!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/jaarvisbot)
+
+Our team 
+[X_row](t.me/x_row)
+[Mariodevs](t.me/mariodevs)
+[Moviewala](t.me/moviewala)
+[Join our team](t.me/binzhub)
+
 
 ## Starting the bot.
 
