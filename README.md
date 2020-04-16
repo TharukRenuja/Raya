@@ -3,10 +3,9 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
+Can be found on telegram as [Rose](https://t.me/rose_groupassistant_bot).
 
-Can be found on telegram as [Rose](https://t.me/jarvisgroupassistant_bot).
-
-Rose and I are moderating a [support group](https://t.me/Jaarvisbotgroup), where you can ask for help setting up your
+Rose and I are moderating a [support group](https://t.me/binzhub), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
@@ -21,10 +20,10 @@ Easiest way!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/jaarvisbot)
 
 Our team 
-[X_row](t.me/x_row)
-[Mariodevs](t.me/mariodevs)
-[Moviewala](t.me/moviewala)
-[Join our team](t.me/binzhub)
+[X_row](https://t.me/x_row)
+[Mariodevs](https://t.me/mariodevs)
+[Moviewala](http://t.me/moviewala)
+[Join our team](https://t.me/binzhub)
 
 
 ## Starting the bot.
@@ -183,3 +182,12 @@ it is necessary to migrate it in the db.
 
 The `__stats__()` function is for retrieving module statistics, eg number of users, number of chats. This is accessed 
 through the `/stats` command, which is only available to the bot owner.
+
+
+[X_row](https://t.me/x_row)
+
+
+
+
+[Mariodevs](https://t.me/mariodevs)
+
