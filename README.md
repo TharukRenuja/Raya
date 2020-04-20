@@ -15,15 +15,15 @@ announcements.
 Alternatively, [find me on telegram](https://t.me/mariodevs)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
-Easiest way!
+Easiest way!Smartest way !
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/rose2.0)
 
 Our team 
-[X_row](https://t.me/x_row)
-[Mariodevs](https://t.me/mariodevs)
-[Moviewala](http://t.me/moviewala)
-[Join our team](https://t.me/binzhub)
+VPNBROTHER
+MARIODEVS
+VIRUZS
+CREATOR NAME MIDHUN K M
 
 
 ## Starting the bot.
