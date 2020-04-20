@@ -21,19 +21,15 @@ PM_START_TEXT = """
 Hey! {}, my name is {}!I can help you out in mananging your group efficiency
 I can do what you cannot ! 
 I am more powerful & I have more features than any other bots.
-Just add me in an group & start using me ! 😉
-I am very smart that's because I am created by [this person](tg://user?id={})
- if you have any questions about how to use me please give me /help... 
-My support [group](t.me/binzhub)🤖
-If you wanna [clone me](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/jaarvisbot)😄
-My supporters are : [Mariodevs](t.me/mariodevs),[x_row](t.me/x_row),[moviewala](t.me/moviewala)
+Just add me in an group & start using me !
+[I am very smart that's because I am created by this guy!](tg://user?id={})
+ if you have any questions about how to use me please give me /help 
+ My support group @binzhub 
+ I am an indian 🇮🇳
 If you wanna donate /donate
-
-
-For more commands click /help...
+for more commands click /help...
 
 Thank you for using me!
-
 
 """
 
@@ -149,7 +145,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN)
     else:
-        update.effective_message.reply_text("waked up😏😏😏")
+        update.effective_message.reply_text("Thank you for coffee ☕I am refreshed now!")
 
 
 # for test purposes
@@ -239,7 +235,7 @@ def get_help(bot: Bot, update: Update):
     # ONLY send help in PM
     if chat.type != chat.PRIVATE:
 
-        update.effective_message.reply_text("Contact me in PM to get the list of possible commands.",
+        update.effective_message.reply_text("Contact me in PM or DM to get the list of possible commands.",
                                             reply_markup=InlineKeyboardMarkup(
                                                 [[InlineKeyboardButton(text="Help",
                                                                        url="t.me/{}?start=help".format(
@@ -277,8 +273,8 @@ def send_settings(chat_id, user_id, user=False):
                                         reply_markup=InlineKeyboardMarkup(
                                             paginate_modules(0, CHAT_SETTINGS, "stngs", chat=chat_id)))
         else:
-            dispatcher.bot.send_message(user_id, "Seems like there aren't any chat settings available :'(\nSend this "
-                                                 "in a group chat you're admin in to find its current settings!",
+            dispatcher.bot.send_message(user_id, "Seems like there aren't any chat settings available!😃 :'(\nSend this "
+                                                 "in a group chat you're admin in to find its current settings!😛",
                                         parse_mode=ParseMode.MARKDOWN)
 
 
@@ -357,7 +353,7 @@ def get_settings(bot: Bot, update: Update):
     # ONLY send settings in PM
     if chat.type != chat.PRIVATE:
         if is_user_admin(chat, user.id):
-            text = "Click here to get this chat's settings, as well as yours."
+            text = "Click here to get this chat's settings, as well as yours!."
             msg.reply_text(text,
                            reply_markup=InlineKeyboardMarkup(
                                [[InlineKeyboardButton(text="Settings",
@@ -389,7 +385,7 @@ def donate(bot: Bot, update: Update):
 
             update.effective_message.reply_text("I've PM'ed you about donating to my creator!")
         except Unauthorized:
-            update.effective_message.reply_text("Contact me in PM first to get donation information.")
+            update.effective_message.reply_text("Contact me in PM first to get donation information!.")
 
 
 def migrate_chats(bot: Bot, update: Update):
