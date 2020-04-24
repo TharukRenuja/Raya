@@ -23,11 +23,10 @@ I can do what you cannot !
 I am more powerful & I have more features than any other bots.
 Just add me in an group & start using me !
 [I am very smart that's because I am created by this guy!](tg://user?id={})
+[Click Here To Add Me In Group!](http://t.me/AsunaYuuki_Robot?startgroup=true)
  if you have any questions about how to use me please give me /help 
- My support group @binzhub 
- I am an indian 🇮🇳
-If you wanna donate /donate
-for more commands click /help...
+ My support group @hackerhubz ! 
+Join My Bot Group @BotsExpertsHub
 
 Thank you for using me!
 
