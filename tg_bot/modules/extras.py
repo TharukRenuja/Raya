@@ -8,21 +8,21 @@ from tg_bot import dispatcher
 from tg_bot.modules.disable import DisableAbleCommandHandler
 
 ABUSE_STRINGS = (
-    "Fuck off",
-    "Stfu go fuck yourself",
+    "Fuck off!",
+    "go fuck yourself!",
     "Ur mum gey",
-    "Ur dad lesbo",
+    "Nerd!",
     "Bsdk",
     "Nigga",
     "Ur granny tranny",
-    "you noob",
+    "you noob!",
 	"Relax your Rear,ders nothing to fear,The Rape train is finally here",
-	"Stfu bc",
+	"Just Fuck Off!",
 	"Stfu and Gtfo U nub",
-	"GTFO bsdk"
+	"McBc"
     "CUnt",
     " Gay is here",
-    "Ur dad gey bc "
+    "Ur dad is gey bc! "
 )
 
 EYES = [
