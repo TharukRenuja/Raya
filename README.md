@@ -1,23 +1,23 @@
-# Rose 2.0-English
+# Raya 2.0-English
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
-Can be found on telegram as [Rose](https://t.me/rose_groupassistant_bot).
+Can be found on telegram as [Amanda](https://t.me/TheAmandabot).
 
-Rose and I are moderating a [support group](https://t.me/binzhub), where you can ask for help setting up your
+Rose and I are moderating a [support group](https://t.me/trtechguide), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/binzhub) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/SLBotsOfficial) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/mariodevs)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/trtechguide)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 Easiest way!Smartest way !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/rose2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TharukRenuja/rose2.0)
 
 Our team 
 VPNBROTHER
@@ -182,12 +182,4 @@ it is necessary to migrate it in the db.
 
 The `__stats__()` function is for retrieving module statistics, eg number of users, number of chats. This is accessed 
 through the `/stats` command, which is only available to the bot owner.
-
-
-[X_row](https://t.me/x_row)
-
-
-
-
-[Mariodevs](https://t.me/mariodevs)
 
